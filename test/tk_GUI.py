@@ -1,4 +1,4 @@
-from fcntl import F_GET_SEALS
+# from fcntl import F_GET_  SEALS
 import sys
 import tkinter
 from tkinter import ANCHOR, Label, Button, Entry, StringVar, Tk, Frame, Text, Scrollbar, END, INSERT, LEFT, RIGHT, BOTH, Y, X, N, S, E, W, Toplevel, messagebox, filedialog, ttk
